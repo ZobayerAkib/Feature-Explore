@@ -6,7 +6,5 @@
     Exploratory Testing is a type of software testing in which the tester is free to select any possible methodology to test the software. It is an unscripted approach to software testing. In exploratory testing, software developers use their learning, knowledge, skills, and abilities to test the software developed by themselves. Exploratory testing checks the functionality and operations of the software as well as identify the functional and technical faults in it. 
   </p>
 
-  <p style=" font-weight: bold">
-   I tested the ShareTrip (Flight section) without prior knowledge of the SRS.
-  </p>
+  <p style="font-weight: bold"> I tested the ShareTrip (Flight section) without prior knowledge of the SRS. </p>
 </div>
